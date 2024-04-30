@@ -1,0 +1,15 @@
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 3\Threading_delegate_method\Threading_delegate_method\obj\Debug\Threading_delegate_method.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 3\Threading_delegate_method\Threading_delegate_method\obj\Debug\MainWindow.g.cs
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 3\Threading_delegate_method\Threading_delegate_method\obj\Debug\App.g.cs
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 3\Threading_delegate_method\Threading_delegate_method\obj\Debug\Threading_delegate_method_MarkupCompile.cache
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 3\Threading_delegate_method\Threading_delegate_method\obj\Debug\Threading_delegate_method_MarkupCompile.lref
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 3\Threading_delegate_method\Threading_delegate_method\bin\Debug\Threading_delegate_method.exe.config
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 3\Threading_delegate_method\Threading_delegate_method\bin\Debug\Threading_delegate_method.exe
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 3\Threading_delegate_method\Threading_delegate_method\bin\Debug\Threading_delegate_method.pdb
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 3\Threading_delegate_method\Threading_delegate_method\obj\Debug\MainWindow.baml
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 3\Threading_delegate_method\Threading_delegate_method\obj\Debug\Threading_delegate_method.g.resources
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 3\Threading_delegate_method\Threading_delegate_method\obj\Debug\Threading_delegate_method.Properties.Resources.resources
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 3\Threading_delegate_method\Threading_delegate_method\obj\Debug\Threading_delegate_method.csproj.GenerateResource.cache
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 3\Threading_delegate_method\Threading_delegate_method\obj\Debug\Threading_delegate_method.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 3\Threading_delegate_method\Threading_delegate_method\obj\Debug\Threading_delegate_method.exe
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 3\Threading_delegate_method\Threading_delegate_method\obj\Debug\Threading_delegate_method.pdb
